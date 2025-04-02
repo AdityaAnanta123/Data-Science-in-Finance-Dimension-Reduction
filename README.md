@@ -33,10 +33,10 @@ git clone https://github.com/AdityaAnanta123/Data-Science-in-Finance-Dimension-R
 ### Step 2: Install Required R Packages 
 Open R or RStudio and install the necessary packages by running the following commands:
 
-install.packages("stats")
-install.packages("ggplot2")
-install.packages("dplyr")
-install.packages("readxl")
+- install.packages("stats")
+- install.packages("ggplot2")
+- install.packages("dplyr")
+- install.packages("readxl")
 
 ### Step 3: Load the Dataset
 Make sure you have the dqlab_pcadata.xlsx file in the same directory where your R scripts are located. You can load the dataset into R using the following command:
