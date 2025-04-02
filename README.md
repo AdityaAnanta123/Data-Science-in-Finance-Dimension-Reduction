@@ -27,7 +27,7 @@ Before running this project, make sure you have the following installed:
 
 ### Step 1: Clone the Repository
 Start by cloning this repository to your local machine using the following command:
-```bash
+bash
 git clone https://github.com/AdityaAnanta123/Data-Science-in-Finance-Dimension-Reduction.git
 
 ### Step 2: Install Required R Packages 
